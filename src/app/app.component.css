@@ -1,0 +1,8 @@
+.error {
+  color: orange;
+  font-size: 14px;
+}
+
+button + button {
+  margin-left: 10px;
+}
